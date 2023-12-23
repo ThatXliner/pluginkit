@@ -1,0 +1,3 @@
+# PluginKit
+
+Because eventually every good plugin ecosystem will have to come with a dependancy manager and a registry...
